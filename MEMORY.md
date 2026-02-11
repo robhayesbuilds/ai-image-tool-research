@@ -106,4 +106,59 @@ VixPic's BYOK positioning is orthogonal - competing in different dimension than 
 
 ---
 
-*Last updated: 2026-02-09*
+## 2026 Bootstrapping Playbook (2026-02-11)
+
+### The 10-Step Framework
+1. **Solve small agonizing problem** - "Who pays in 30 days?" beats "What's disruptive?"
+2. **Validate with revenue** - 5 paying > 100 interested signups
+3. **MVP = opinionated** - One problem solved well, not flexible platform
+4. **Price early, honestly** - Low prices signal instability; 2-3 tiers max
+5. **Revenue before team** - Founder closeness to users = superpower
+6. **Compounding channels** - Channel depth > spread; no paid ads until conversion proven
+7. **Retention = growth** - CAC high in 2026; onboarding + docs + proactive support
+8. **AI strategic not excessive** - Must lower costs OR add value
+9. **Cash flow visibility** - MRR, churn, conservative projections
+10. **Raise only when proven** - Bootstrap = voluntary funding leverage
+
+### Micro-SaaS Success Patterns
+- Most bootstrap with <$1,000, profitable in 3-6 months
+- Profit margins: 80-95% once established
+- Break-even: often 10-50 customers
+
+### Revenue Benchmarks (Real Companies)
+| Company | Revenue | Model |
+|---------|---------|-------|
+| Buffer | $20M+ ARR | Started with 2 features |
+| Plausible | $100K+ MRR | 2 employees, privacy positioning |
+| RemoveBackground | $3M ARR Y1 | Single feature → sold to Canva |
+| ConvertKit | $25M/year | $5K start, affiliate program |
+| Dorik | $11.9M/year | Side project → no-code builder |
+
+### Weekend Validation Framework
+- **Friday (2h):** Landing page + pricing + email capture
+- **Saturday (4h):** 5 subreddits, helpful content, soft CTA
+- **Sunday:** Analyze, iterate or pivot
+
+---
+
+## VixPic Competitive Intelligence (2026-02-10)
+
+### Direct Competitor: SeamUI
+- Pricing: $39-199 LTD tiers
+- Features: 11+ AI models, BYOK, bulk gen, projects
+- Target: E-commerce, course creators, agencies
+
+### VixPic Differentiation Strategy
+1. **Lower entry price** - $29 vs $39
+2. **More providers** - Replicate/FAL models SeamUI lacks
+3. **Privacy edge** - Edge proxy, keys never touch server
+4. **Developer API** - Power user segment SeamUI ignores
+
+### Market Validation
+- BYOKList.com curates 40+ BYOK tools → category is real
+- 70-90% cost savings vs subscriptions → strong value prop
+- SeamUI existence proves demand; market not saturated
+
+---
+
+*Last updated: 2026-02-11*
