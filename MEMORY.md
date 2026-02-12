@@ -161,4 +161,49 @@ VixPic's BYOK positioning is orthogonal - competing in different dimension than 
 
 ---
 
-*Last updated: 2026-02-11*
+## LTD Platform Landscape (2026-02-12)
+
+### Platform Comparison for VixPic Launch
+
+| Platform | Take Rate | Refund | Best For |
+|----------|-----------|--------|----------|
+| AppSumo | ~70% | 60 days | Massive audience, brand validation |
+| Pitchground | ~50% | 60 days | SaaS-focused, better splits |
+| Dealify | Better | 30 days | Startup/growth hacker audience |
+| Own site | ~3% (Stripe) | Custom | Max margin, own customer relationship |
+
+### Recommended LTD Launch Strategy
+1. **Phase 1: Own site** - Early adopters, $29-149 tiers, 97% net
+2. **Phase 2: Pitchground** - If need broader exposure, 50% cut acceptable
+3. **Phase 3: AppSumo** - Only if brand validation needed, 70% cut hurts
+
+### Why Pitchground > AppSumo for BYOK Tool
+- SaaS-focused audience (vs AppSumo's broad mix)
+- Better margin (50% vs 70%)
+- Still ~400 TrustPilot reviews = established platform
+- 60-day refund same as AppSumo
+
+---
+
+## SaaS Resource Usage Framework (2026-02-12)
+
+### How to Extract Maximum Value
+
+**Indie Hackers (daily check)**
+- Filter: Bootstrapped + SaaS + revenue sort
+- Study "Milestones" posts for exact tactics
+- Ask tactical questions, not generic
+
+**Starter Story (weekly deep dive)**
+- Consistent interview format = easy comparison
+- Focus on "How You Grew" section
+- Benchmark startup costs + MRR + team size
+
+**MicroConf Vault (monthly learning)**
+- 170+ hours FREE tactical talks
+- Not motivational - actual frameworks
+- Rob Walling, Rand Fishkin tier content
+
+---
+
+*Last updated: 2026-02-12*
