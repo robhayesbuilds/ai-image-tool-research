@@ -206,4 +206,31 @@ VixPic's BYOK positioning is orthogonal - competing in different dimension than 
 
 ---
 
-*Last updated: 2026-02-12*
+## 2026 SaaS Unit Economics Benchmarks (2026-02-13)
+
+### The Metrics That Matter
+
+| Metric | Median | Best-in-Class | Warning |
+|--------|--------|---------------|---------|
+| Annual Growth (bootstrapped) | 23% | 40-50% | <15% |
+| Net Revenue Retention | 106% | 120-130% | <100% |
+| Gross Revenue Retention | 90% | 95%+ | <85% |
+| Monthly Churn | ~0.4% | <0.25% | >1% |
+| CAC Payback | 12-18 mo | 8-12 mo | >24 mo |
+| LTV:CAC | 4:1 | 5:1+ | <3:1 |
+
+### The 2026 Shift: Retention > Acquisition
+- CAC rose 14% while growth slowed through 2025
+- Existing customers now generate **40%+ of new ARR**
+- Companies with NRR >100% grow 1.5-3x faster
+- Churn improving while new sales slow = retention winners take all
+
+### Implications for VixPic
+- LTD model eliminates churn concerns entirely
+- BYOK creates switching costs (user's API keys = investment)
+- Focus on expansion: tiers, API access, new providers
+- Don't obsess over new customer acquisition at expense of activation
+
+---
+
+*Last updated: 2026-02-13*
