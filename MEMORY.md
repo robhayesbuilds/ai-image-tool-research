@@ -233,4 +233,171 @@ VixPic's BYOK positioning is orthogonal - competing in different dimension than 
 
 ---
 
-*Last updated: 2026-02-13*
+## AI-First SaaS Economics & BYOK Advantage (2026-02-14)
+
+### The AI Margin Crisis
+Traditional SaaS: 80-90% gross margins
+AI-first SaaS: 50-60% average, **25% or negative** for early-stage
+
+**Real examples of margin squeeze:**
+| Company | Issue |
+|---------|-------|
+| GitHub Copilot | Costs Microsoft ~$80/user (charges $10) = $20 avg loss |
+| Replit | Margins <10%, sometimes negative during surges |
+| Cursor IDE | Had to restructure pricing, issue refunds |
+
+**Root cause:** Every AI inference = direct variable cost. Classic SaaS marginal cost is near-zero; AI SaaS cost scales with usage.
+
+### Why BYOK Is a Structural Margin Hack
+VixPic's BYOK model transfers inference costs entirely to user's API account.
+
+| Cost Type | Traditional AI SaaS | VixPic BYOK |
+|-----------|---------------------|-------------|
+| Inference | Company pays (COGS) | User pays (external) |
+| Gross margin | 25-60% | ~95% |
+| LTD viability | Suicide | Sustainable |
+
+> "An AI company's COGS rides someone else's price card" - Industry analyst
+> 
+> **VixPic insight:** Make that 'someone else' = the user, not you.
+
+### AI Solo Founder Revenue Benchmarks
+| Founder | Product | ARR | Model |
+|---------|---------|-----|-------|
+| Nick Dobos | BoredHumans | $8.8M | 100+ SEO tools |
+| Bhanu Teja | SiteGPT | $1.14M | Custom chatbots |
+| Seth Kramer | PDF.ai | $1.2M | Chat with PDFs |
+| Mohamed Maamer | Blackbox AI | $5M | Coding assistant |
+
+**Common patterns:**
+- MVP in weeks, not months
+- Niche > broad early on
+- SEO/community > paid ads
+- Usage-based pricing scales
+- Solo to $1M ARR before first hire
+
+### The "Build 100 Tools" Strategy
+BoredHumans: 100+ small AI tools on one domain → each = SEO landing page → aggregated $8.8M ARR from long-tail traffic.
+
+**VixPic potential:** Add small image utilities (resize, crop, upscale) alongside generator for SEO surface area expansion.
+
+---
+
+## Launch & Distribution Strategy (2026-02-15)
+
+### The Platform Conversion Gap (2025 Data)
+
+| Platform | Conversion Rate | Prep Time | Budget |
+|----------|-----------------|-----------|--------|
+| Indie Hackers | **23.1%** | 15-20 min/day | $0 |
+| Product Hunt | **3.1%** | 50-120 hours | $1,847 avg |
+
+**Key stat:** 89% of Product Hunt founders surveyed wouldn't launch again.
+
+**Post-2024 PH algorithm shift:**
+- Featured rate collapsed: 60-98% → 10%
+- Same tactics, different results: 300 upvotes = 91 customers (2023) vs 612 upvotes = 1 customer (2024)
+
+### The First 10 Customers Playbook
+
+**The 4-Step Framework:**
+1. **Identify & Infiltrate** - 3-5 niche communities
+2. **Apply 90/10 Rule** - 90% value, 10% product mention
+3. **Soft Ask** - Request feedback, not sales
+4. **White-Glove Onboarding** - Turn early users into co-creators
+
+**Timeline:** 6-8 weeks from engagement to first paying customer
+
+**Build in Public stats:**
+- 73% faster time to first customer
+- 2.3x higher conversion (trial → paid)
+- 89% more likely to reach PMF within 6 months
+
+### The 90/10 Rule (Verified)
+
+**Pratham Naik's results (Oct 2024):**
+- 1,200 targeted visitors in 6 weeks, $0 budget
+- Daily investment: 15-20 minutes
+
+**What worked:**
+| Channel | Visitors | Strategy |
+|---------|----------|----------|
+| Reddit comments | 680 | 20 min/day, 8 subreddits, no pitches |
+| SEO content | Consistent | 5 blog posts answering questions |
+| Community | 290 | Value-first engagement |
+
+**What failed:** Cold DMs (2% response), generic Twitter threads (8 likes)
+
+**Key insight:** "No single comment blew up. 1,200 visitors came from daily habits—15-20 minutes of genuine engagement, every day, for 6 weeks."
+
+### Indie Hackers Content That Converts
+
+**Headline Formula:** [Specific Number] + [Transformation] + [Timeframe]
+- "$0 → 1,200 visitors in 6 weeks" ✓
+- "How I grew from 0 to $10K MRR in 5 months" ✓
+- "Check out my new SaaS" ✗
+
+**Post structure:**
+1. Hook with struggle/failed attempts
+2. Pivot point
+3. Numbered tactics with results
+4. Honest admission of failures
+5. Question CTA to community
+
+**Length:** 750-1,500 words
+
+### Multi-Platform Sequencing Strategy
+
+**The "Infinite Marketing Glitch" (Farid Shukurov 2024):**
+1. Get any success (small or big)
+2. Tell people how you got this success (drives traffic)
+3. Tell people how telling drove more traffic
+4. Repeat
+
+**His result:** Reddit post about his PH strategy → 1,450 visitors (more than his #1 Product Hunt launch at ~800 visitors)
+
+### Waitlist Fundamentals
+
+**Optimal duration:** 2-4 months
+**Target:** 1,000+ highly qualified signups
+**Key metric:** Conversion rate (10-60% variance in industry)
+
+**Robinhood case:**
+- 1 million+ waitlist before launch
+- $0 user acquisition spend
+- Referral mechanics (position visibility, move up by referring)
+
+### VixPic Launch Sequence (Recommended)
+
+1. **Phase 1: Indie Hackers (now, 4-6 weeks)**
+   - Journey posts documenting FacturSimple → VixPic pivot
+   - Build in public with specific numbers
+   - 20 min/day engagement
+   
+2. **Phase 2: Community Building**
+   - Reddit r/SaaS, r/SideProject (helpful comments only)
+   - Twitter/X build in public threads
+   - Target: 500+ engaged followers before PH
+   
+3. **Phase 3: SEO via Free Tools**
+   - Image compressor, converter already built
+   - Each tool = landing page = long-tail traffic
+   
+4. **Phase 4: Product Hunt (only after community momentum)**
+   - Use IH community for initial votes
+   - Set email capture goal (1,000+), not upvote goal
+
+### When to Skip Indie Hackers
+
+**Don't fit:**
+- B2B with complex sales cycles
+- Enterprise procurement
+- Non-tech audiences
+- Products $10-100 (direct sales ineffective)
+- AI wrappers without differentiation
+
+**Sobering stat:** 54% of IH products make $0 revenue
+
+---
+
+*Last updated: 2026-02-15*
