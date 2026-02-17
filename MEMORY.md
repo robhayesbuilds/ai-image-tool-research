@@ -400,4 +400,170 @@ BoredHumans: 100+ small AI tools on one domain → each = SEO landing page → a
 
 ---
 
-*Last updated: 2026-02-15*
+## Rob Walling's 2026 SaaS Predictions (Episode 813)
+
+Source: Startups for the Rest of Us, December 2025
+
+### The 9 Predictions
+
+| # | Prediction | Implication for VixPic |
+|---|------------|------------------------|
+| 1 | **Horizontal SaaS massive headwinds** | VixPic is orthogonal (BYOK niche), not horizontal ✓ |
+| 2 | **SEO over-reliance problematic** | Diversify beyond free tools SEO |
+| 3 | **Top brands grab more market share** | AI recommends short lists - need to BE that recommendation |
+| 4 | **AI VC bubble won't burst** | $190B invested in 2025, continues 2026 |
+| 5 | **Open-source AI doubles (20%→40%)** | BYOK aligns with open-source philosophy |
+| 6 | **No-code platform will struggle** | Vibe coding eating no-code's lunch |
+| 7 | **M&A activity increases** | AI companies buying small SaaS ($1-10M ARR) |
+| 8 | **Bitcoin hits $160K** | Range $90-160K throughout year |
+| 9 | **Stripe stays private** | No IPO in 2026 |
+
+### Horizontal SaaS Plateau Reality
+
+- Bootstrapped horizontal SaaS plateau hard at **$500K-$2M ARR**
+- Causes: venture money + AI-first companies flooding big markets
+- Exception: **lifestyle projects** on single traffic source can hit $20-40K/mo
+- Rob's take: ambitious bootstrappers (7-8 figure ARR goals) should avoid horizontal
+
+### SEO Warning Signs
+
+- **Red flag:** 80%+ of customers from SEO
+- Content/SEO is #1 approach but extremely crowded
+- Still do it, but diversify channels
+- "AI SEO" = the new frontier
+
+### Brand Building (Without Brand Marketing)
+
+**Definition:** Brand = what people say about your company when you're not in the room
+
+**How brands emerge organically:**
+1. Pick memorable name
+2. Build incredible product solving desperate pain
+3. Be so good people can't ignore you
+4. By ~$1M ARR, affinity group forms naturally
+
+**Key insight:** Don't do "brand marketing" (billboards, exposure campaigns). Bootstrap founders can't afford it, don't need it. Just build something people love.
+
+**Founder spokesperson = easy mode** (Rand Fishkin/SparkToro) but not required (Semrush, HRFs built brands without famous founders).
+
+### Core Four Framework
+
+The four skills founding team needs (or must learn):
+1. **Marketing** - Getting attention
+2. **Sales** - Converting attention to revenue
+3. **Product** - What you're building
+4. **Development** - How you build it
+
+Solo founders: identify weakest skill, either learn it or find complementary partner.
+
+### SaaS Plateau Causes
+
+Rob identified 7-8 distinct causes across hundreds of B2B SaaS companies:
+- Once you identify the cause, the solution is usually obvious
+- The hard part is diagnosis, not treatment
+- Full talk available on MicroConf YouTube
+
+### 12 Commandments of Startups for the Rest of Us
+
+(Episode 800)
+- Nuance beats absolutes
+- Make hard decisions with incomplete information
+- Marketing beats product
+- Build your network, not your audience
+- Overnight success takes a decade
+- *(8 more in that episode)*
+
+---
+
+## Market Shifts & Strategic Implications (2026-02-16)
+
+### AI Chat Interfaces as Discovery
+
+- Users now ask Claude/ChatGPT "what's the best X" instead of Google
+- AI gives short list (3-4 recommendations) vs Google's long-tail results
+- **Winner-take-more dynamics intensifying**
+- Being a top brand in category matters more than ever
+
+### VixPic Positioning Advantage
+
+1. **Orthogonal, not horizontal** - BYOK is a different dimension of competition
+2. **Open-source alignment** - As open-source AI usage doubles, BYOK tools benefit
+3. **M&A target potential** - Small, fast-growing, AI-adjacent = attractive to acquirers
+4. **SEO diversification needed** - Free tools strategy good but shouldn't be 80%+ of acquisition
+
+### Recommended Channel Mix for VixPic
+
+Based on 2026 predictions:
+- **Primary:** Indie Hackers build-in-public (high conversion, low cost)
+- **Secondary:** Free tools SEO (long-tail, but diversify)
+- **Tertiary:** Integrations/partnerships (compound growth)
+- **Avoid over-investing in:** Pure content SEO (getting crowded)
+
+---
+
+## SaaS Landscape & Agent Economy (2026-02-17)
+
+### Market Reality Check
+
+| Metric | 2025 | 2026 |
+|--------|------|------|
+| Global SaaS Market | $408B | $465B (projected) |
+| Enterprise AI SaaS adoption | 70%+ | Growing |
+| Vertical vs Horizontal growth | 2-3x faster | Widening gap |
+
+**Narrative shift:** "Capital efficiency beats growth at all costs." The 2021 funding frenzy playbook is dead.
+
+### The Agent Economy
+
+**Critical distinction:** "Copilots help you write code. Agents actually do the work."
+
+- Agentic AI emerged ~2024 (Bain's 2025 report)
+- No-code builders enable SaaS MVP in **<5 hours**
+- Opportunity: autonomous task completion, not just assistance
+
+**Implication for VixPic:** Consider "AI image agent" positioning vs "generator" - agents that handle entire workflows (generate → edit → format → deliver).
+
+### 2026 SaaS Ideas with Verified Pricing
+
+**Vertical SaaS benchmarks:**
+- Solar Installer CRM: $200/mo
+- Waste Route Optimizer: $49/truck/mo
+- Craft Brewery Inventory: $99-399/mo
+- Digital Liability Waivers: $149/mo flat
+
+**AI Tool benchmarks:**
+- Compliance Officer: $299-2,000/mo
+- RFP Response Agent: $50-200/RFP
+- Recruiter Outreach AI: $79-299/mo
+
+**Pattern:** "Unsexy vertical + AI agent execution" beats "horizontal AI wrapper"
+
+### B2B SaaS Marketing Motion Matrix
+
+```
+                PLG              Sales-Led
+Bootstrapped   [Basecamp]       [Slow grind]
+VC-Funded      [Notion/Slack]   [Salesforce]
+```
+
+**VixPic quadrant:** Bootstrapped PLG → prioritize compounding channels (SEO, community, build-in-public).
+
+**Budget benchmarks:**
+- Growing SaaS: 20-40% of revenue on S&M
+- Efficient target: 15-25% of new ARR generated
+- LTV:CAC healthy: ~3:1
+
+### AI SaaS Economics (Reinforced)
+
+**The margin crisis is real:**
+- Traditional SaaS: 80-90% gross margins
+- AI SaaS average: 50-60%
+- Early AI SaaS: often 25% or negative
+
+**VixPic advantage:** BYOK = 95% gross margins because user pays inference directly.
+
+This makes LTD model viable where competitors would lose money.
+
+---
+
+*Last updated: 2026-02-17*
