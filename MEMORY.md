@@ -566,4 +566,74 @@ This makes LTD model viable where competitors would lose money.
 
 ---
 
-*Last updated: 2026-02-17*
+## 2026 Macro Shifts for SaaS (2026-02-18)
+
+### The 5 Forces Reshaping the Landscape
+
+| Shift | Key Data Point | Strategic Implication |
+|-------|----------------|----------------------|
+| **Agentic AI** | 40% of enterprise apps will include AI agents by end of 2026 (vs <5% in 2025) | Build tools that DO work, not just assist |
+| **Micro Unicorns** | YC: 50% of Spring 2025 cohort building AI agent tools; Sam Altman betting on 1-person $1B company | Solo founders + AI can compete at enterprise scale |
+| **Vertical > Horizontal** | 70% businesses using Industry Cloud Platforms by 2027 (from <15% 2023) | Domain-specific beats generic; own one industry |
+| **Retention = Growth** | Top-quartile NRR 115-125%, grow 2.5x faster | Existing customers > new logo chase |
+| **Outcome Pricing** | 47% SaaS companies exploring/piloting | Price on results, not seats |
+
+### The 95% AI Pilot Failure Problem
+
+Most enterprise GenAI pilots show no P&L impact. Winners narrow scope to painful jobs-to-be-done.
+
+**What Works (BCG):**
+- Effective AI agents: 30-50% process acceleration
+- 25-40% reduction in low-value work
+- Key: Wire agents into REAL workflows where time/money is lost
+
+### Micro Unicorn Infrastructure (2026)
+
+Solo founders can now compete at scale because:
+1. Agentic AI handles: coding → support → marketing
+2. No-code platforms: SaaS MVP in <5 hours
+3. Serverless: pay-per-use, auto-scale
+4. Protocol standardization (Anthropic MCP): agents work across apps
+
+**Evidence:** Base44 → $80M Wix acquisition (6 months after launch)
+
+### Vertical SaaS Dominance Explained
+
+**Why it works:**
+- Pre-configured for industry compliance + terminology + integrations
+- Creates switching costs horizontal competitors can't replicate
+- Speaks customer's language = faster onboarding
+
+**Y Combinator's bet:** "Vertical AI agents could be 10x larger than traditional SaaS companies they replace."
+
+**Consolidation opportunity:** Average company = 275 SaaS apps, $49M/year. CFOs retiring duplicates = be the consolidation winner.
+
+---
+
+## VixPic Agent Positioning (2026-02-18)
+
+**From research synthesis:**
+
+1. **Agent > Generator**
+   - Position as "AI image agent" not "generator"
+   - Agents DO end-to-end work; generators are tools
+   - Batch generation, bulk editing, format conversion = agent workflows
+
+2. **Vertical Landing Pages**
+   - "AI for real estate photos", "product photography for e-commerce", "social media content"
+   - Each vertical = SEO surface + pre-configured workflow
+   - Reduces onboarding friction (speaks customer's language)
+
+3. **Expansion Revenue Path**
+   - LTD eliminates churn but needs expansion
+   - Upsell triggers: API access, provider count, batch limits
+   - New provider integrations = reason to upgrade tier
+
+4. **Outcome-Based Alignment**
+   - BYOK is inherently outcome-based (pay for what you generate)
+   - Messaging: "No monthly waste, pay only for results"
+   - 47% of SaaS exploring this → VixPic already there
+
+---
+
+*Last updated: 2026-02-18*
