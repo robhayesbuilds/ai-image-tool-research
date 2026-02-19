@@ -636,4 +636,129 @@ Solo founders can now compete at scale because:
 
 ---
 
-*Last updated: 2026-02-18*
+## Programmatic SEO Framework (2026-02-19)
+
+### The Math That Changes Everything
+
+| Approach | Pages | Avg Visits/Page | Total Monthly Traffic |
+|----------|-------|-----------------|----------------------|
+| Traditional SEO | 50 blog posts | 500 | 25,000 |
+| Programmatic SEO | 5,000 pages | 200 | **1,000,000** |
+
+**2026 Inflection Point:**
+- No-code stack: Airtable + Webflow + Whalesync = <$300/mo (vs $3K/mo dev team)
+- AI content generation solves duplicate content challenge
+- Google rewards comprehensive topic coverage
+
+### The 5 Programmatic Page Types
+
+| Type | Best For | Case Study |
+|------|----------|------------|
+| **Integration Pages** | Tools connecting with others | Zapier: 16.2M visitors/mo, 1.3M keywords |
+| **Alternative/Comparison** | Competing vs incumbents | "[Competitor] alternatives" pages |
+| **Use Case/Industry Pages** | Horizontal SaaS | Atlassian: "Jira for X" dominance |
+| **Template/Resource Libraries** | Design/workflow tools | Canva: instant-utility conversion |
+| **Location/Segment Pages** | Geographic relevance | KrispCall: 82% US traffic from area codes |
+
+### Hub-and-Spoke Model (ElevenLabs)
+
+- Hub: `/text-to-speech` (main page)
+- Spokes: 76+ language pages (`/text-to-speech/hindi`, `/french`, etc.)
+- Result: 4.5M organic visitors/month
+- Each spoke targets "text to speech [language]"
+
+### Implementation Rules
+
+**Staged Rollout (Critical):**
+1. Week 1-2: Publish 50-100 test pages
+2. Week 3-4: Monitor indexing in GSC
+3. Week 5-6: Analyze performance
+4. Week 7+: Scale if healthy
+
+**Minimum Per-Page:**
+- 300+ words unique copy
+- At least one unique data point
+- Page-specific FAQ
+- Genuine visitor value
+
+---
+
+## Capital Efficiency Benchmarks (2026-02-19)
+
+### AI Startup Revenue Per Employee
+
+| Company | Monthly Revenue | Team Size | Raised | Rev/Employee |
+|---------|-----------------|-----------|--------|--------------|
+| **Midjourney** | $42M | 40 | **$0** | **$1.05M** |
+| **Cursor** | $42M | <20 | $400M | ~$2.1M |
+| OpenAI | $1.08B | 3,200+ | $13B+ | ~$337K |
+| Anthropic | $417M | 1,000+ | $8B+ | ~$417K |
+
+**The Midjourney Model:**
+- $500M ARR, 40 employees, $0 raised
+- Community-first via Discord (not traditional marketing)
+- Subscription model, extreme product focus
+- Independence through bootstrapping
+- **Proves $0 → $500M ARR possible in AI image space**
+
+**VixPic Implication:**
+- BYOK = Midjourney-level margins (95%+)
+- LTD = no investor pressure
+- Target: 1-person → $50K MRR before first hire
+
+---
+
+## Micro-SaaS Speed Benchmarks (2026-02-19)
+
+### Build Time vs Revenue (Starter Story Data)
+
+| Company | Revenue | Build Time | Method |
+|---------|---------|------------|--------|
+| Tweet Hunter | $2.64M/yr | 7 days | Searchable tweet database |
+| Carrd | $1.2M/yr | 180 days | Single-page builder |
+| Taplio | $1.08M/yr | 14 days | Copy Tweet Hunter → LinkedIn |
+| Buttondown | $900K/yr | Unknown | Scratch own itch |
+| WideBundle | $660K/yr | 14 days | Found 3 people wanting same feature |
+| Mailman | $360K/yr | 90 days | Personal script → product |
+| SuperLemon | $348K/yr | 30 days | Browsed 3,000 Shopify apps for gaps |
+| Leave Me Alone | $120K/yr | 7 days | Built from bus travel |
+
+**Patterns:**
+- Build time correlates weakly with revenue
+- 7-day builds can hit $2.64M ARR
+- Shopify ecosystem = reliable $350K-$660K path
+- "Scratch own itch" = Buttondown, Mailman, Leave Me Alone
+- Copy-paste success is legitimate (Tweet Hunter → Taplio)
+
+### The SuperLemon Method
+
+1. Browse platform marketplace (Shopify, WordPress, etc.)
+2. Read reviews for gaps/complaints
+3. Pick 5 ideas matching constraints
+4. Build in <30 days
+5. Use communities for validation/distribution
+
+---
+
+## VixPic Programmatic SEO Plan (2026-02-19)
+
+### Page Type Application
+
+1. **Free Tools (Building)** - 9 tools → target 20+
+2. **Use Case Pages** - /use-cases/ecommerce, /social-media, /thumbnails
+3. **Alternative Pages** - /alternatives/midjourney, /dall-e
+4. **Provider Pages** - /providers/replicate, /fal, /openai
+5. **Style Pages (Hub-Spoke)** - /styles → /styles/anime, /photorealistic
+
+### Priority Order
+1. Free tools (compound SEO value, already building)
+2. Use case pages (high intent, differentiated)
+3. Alternative pages (capture competitor traffic)
+4. Provider pages (technical audience)
+5. Style pages (long-tail volume)
+
+**Target:** 200 visits × 5,000 pages = 1M monthly visitors
+
+---
+
+*Last updated: 2026-02-19*
