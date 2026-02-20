@@ -49,6 +49,53 @@
 
 ---
 
+## SaaS Idea Viability Framework (2026-02-20)
+
+### The Four Filters (Pre-Build Validation)
+
+Before investing in development, every SaaS idea must pass ALL four:
+
+| Filter | Question | Pass = |
+|--------|----------|--------|
+| **Pain Frequency** | How often does problem occur? | Weekly or daily |
+| **Buyer Clarity** | Who exactly pays? | Specific role (not "businesses") |
+| **Automation Potential** | Can AI reduce effort meaningfully? | Yes |
+| **Payment Willingness** | Will they pay monthly? | Recurring value exists |
+
+> Ideas failing even ONE filter → stalled MVP
+
+**VixPic Scorecard:**
+- ✅ Pain Frequency: Daily (creators generate images constantly)
+- ✅ Buyer Clarity: Content creators, e-commerce owners, developers
+- ✅ Automation Potential: Yes (replaces manual Midjourney/DALL-E workflows)
+- ✅ Payment Willingness: Yes (LTD buyers exist, SeamUI proves demand)
+
+### AI Adoption Reality (Designli 2026 Survey)
+
+**Where AI actually helps most (founder priorities):**
+1. Internal automation (billing, QA, admin) — not customer-facing
+2. AI-assisted workflows (analysis, summaries)
+3. Smarter onboarding (adaptive guidance)
+4. Predictive analytics (forecasting, risk signals)
+
+**Key insight:** AI doesn't need to be customer-facing to generate value. Background automation often delivers higher ROI than flashy features.
+
+**Signals it's "time" for AI:**
+- Clear user demand / repeated requests
+- Ties to measurable outcomes (time/cost savings)
+- Clean data + clear integration path
+- Supports existing workflow (vs. introducing new one)
+
+**Critical:** AI is rarely cited as primary differentiator. Teams focus on niche specialization, workflow/UX, service quality, simplicity.
+
+### Positioning Implication for VixPic
+- "AI-powered" = baseline expectation (not differentiator)
+- BYOK + cost savings = actual differentiation
+- Frame as "workflow system" not "AI tool"
+- Outcomes > features
+
+---
+
 ## Lessons Learned
 
 ### Background Agents
